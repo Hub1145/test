@@ -114,10 +114,10 @@ SYMBOLS_TO_TRACK = {
 
 ### Running the Ingestion Service
 
-Once the setup and configuration are complete, you can start the service by running the `ingestion_service.py` script:
+Once the setup and configuration are complete, you can start the service by running the `main.py` script:
 
 ```bash
-python ingestion_service.py
+python main.py
 ```
 
 The service will perform the following actions on startup:
